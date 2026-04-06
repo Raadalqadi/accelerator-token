@@ -1,19 +1,34 @@
 # Accelerator Token
 
-Charity and initiative platform developed as a Full-Stack Developer.
+Charity and initiative platform delivered as a full-stack web project through Rany Agency.
 
-## Project Info
-- Role: Full-Stack Developer
-- Company: Rany Agency
-- Type: Charity / Initiative Platform
-- Tech Stack: React, CSS, Node.js, Express
-- Live Site: https://accelerator.token.com.sa/
+## Overview
+Accelerator Token is a campaign and initiative platform built to support registration flows, public engagement, and dynamic content management. The project focused on usability, organized data handling, and a clean frontend experience for visitors and administrators.
 
-## Highlights
-- Forms and registration flows
+## My Role
+- Full-Stack Developer
+- Worked through: Rany Agency
+- Responsibility: Frontend, backend, authentication flow, dashboard-related features, and deployment support
+
+## Tech Stack
+- React
+- CSS
+- Node.js
+- Express.js
+
+## Key Features
+- Registration and forms workflow
 - Google authentication
-- Dashboard for dynamic content
+- Dynamic content management
+- Dashboard support
 - SEO-focused implementation
 
-## Note
-Source code is not publicly available because this project was developed for a client through an agency.
+## Live Project
+- Website: https://accelerator.token.com.sa/
+
+## Project Status
+- Source code is not publicly available
+- This repository is published as a project showcase and portfolio reference
+
+## Notes
+This project was developed through an agency for a client, so the source code remains private.
