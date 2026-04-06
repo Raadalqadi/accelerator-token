@@ -1,5 +1,7 @@
 # Accelerator Token
 
+![Accelerator Token Preview](./assets/preview.jpg)
+
 Charity and initiative platform delivered as a full-stack web project through Rany Agency.
 
 ## Overview
